@@ -12,7 +12,8 @@ Note: (If you don't have node.js and npm installed in your computer you must ins
 After you have cloned it go to the directory using cd command in the terminal. Once you are in the folder that contents the  application.
   Run command npm i node-modules. That command will install node_modules.
   
- Once you have all node_module and other folders as src and public run npm start in a few seconds browser will open. Start to use it.
+ Once you have all node_module and other folders as src and public run npm start. 
+ In a few seconds browser will open. Start to use it.
 
 
 
