@@ -1,5 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+How to clone this repository locally:
+  - Go to Clone or download.
+  - Copy the URL
+  - Open Terminal
+  - In the terminal type $ git clone 'paste the URL'
+  
+Note: (If you don't have node.js and npm installed in your computer you must install it before start.)
+
+After you have cloned it go to the directory using cd command in the terminal. Once you are in the folder that contents the  application.
+  Run command npm i node-modules. That command will install node_modules.
+  
+ Once you have all node_module and other folders as src and public run npm start in a few seconds browser will open. Start to use it.
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
